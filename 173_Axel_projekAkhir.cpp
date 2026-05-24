@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// ================= INPUT AMAN =================
+//  INPUT AMAN 
 void clearInput() {
     cin.clear();
     cin.ignore(1000, '\n');
